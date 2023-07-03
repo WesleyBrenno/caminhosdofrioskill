@@ -1,317 +1,352 @@
 {
-	"2022-07-04": {
-		"manhã": "Não há programação na manhã neste dia. ",
+	"2023-07-03": {
+		"manhã": "Não há programação na tarde neste dia. ",
+		"tarde": "As 13 e 30, Oficina - Literatura de Cordel, nas ESCOLAS. ",
+		"noite": "As 18 e 30, Abertura com cerimonial e recepção, no auditório do colégio Santa Rita, Feirinha Cultural e Gastronômica na praça Pedro Américo. As 21 e 30, apresentação musical, gênero musical: Seresta, na PRAÇA PEDRO AMÉRICO. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
+	},
+	"2023-07-04": {
+		"manhã": "As 9 horas, Agro Receptivo turístico - Rotas dos Engenhos e Rota das Cachoeiras, Receptivo turístico com a Rotta Turismo - Rota das Flores de Areia, no Espaço Cultura e Arte Horácio de Almeida. ",
+		"tarde": "As 13 e 30, Oficina de gastronomia Regional no IFPB - Rapadura na cozinha Contemporânea. Oficina de literatura de cordel nas escolas. As 14 horas, receptivo turístico com a Rotta Turismo - Rota dos Engenhos de Areia, no espaço Horácio de Almeida. As 17 horas, Sarau Literário, no espaço de Arte e Cultura Horácio de Almeida. ",
+		"noite": "As 18 horas, feirinha cultural e gastronômica, e Encontro de Filarmônicas. As 21 horas, Junina de Borborema e Grupo de dança Explosão Bananeiras. As 22 horas Apresentação Musical - Gênero Musical: MPB. Todas as atrações na praça Pedro Américo. "
+	},
+	"2023-07-05": {
+		"manhã": "As 9 horas, Agro Receptivo turístico - Rotas dos Engenhos e Rota das Cachoeiras, Receptivo turístico com a Rotta Turismo - Rota das Flores de Areia, no Espaço Cultura e Arte Horácio de Almeida. ",
+		"tarde": "As 13 horas: oficina de literatura de cordel nas escolas. As 14 horas, receptivo turístico com a Rotta Turismo - Rota dos Engenhos de Areia, no espaço Horácio de Almeida. Palestra com Autor cordelista no Teatro Minerva. As 15 e 30, Receptivo turístico com a Rotta Turismo - Casa de Farinha Pôr do Sol, no espaço de arte e cultura Horácio de Almeida. ",
+		"noite": "As 18 horas, feirinha cultural e gastronômica, e Encontro de Filarmônicas. As 21 horas, Apresentação Musical - Gênero Musical: Forró Pé de Serra. Todas as atrações na praça Pedro Américo. "
+	},
+	"2023-07-06": {
+		"manhã": "As 8 e 30, Oficina - Isogravura de Cordel, nas escolas. Oficina de dança, no Teatro Minerva. As 9 horas,  Agro Receptivo turístico - Rotas dos Engenhos e Rota das Cachoeiras, Receptivo turístico com a Rotta Turismo - Rota das Flores de Areia, no Espaço Cultura e Arte Horácio de Almeida. ",
+		"tarde": "As 13 horas, Oficina - Isogravura de Cordel, nas escolas. As 13 e 30, Oficina de gastronomia: drinks à base da cachaça, no IFPB. As 14 horas, receptivo turístico com a Rotta Turismo - Rota dos Engenhos de Areia, no espaço Horácio de Almeida. Culminância da oficina Literatura de cordel, no espaço Horácio de Almeida. Oficina de dança, no Teatro Minerva. As 15 e 30, Receptivo turístico com a Rotta Turismo - Casa de Farinha Pôr do Sol, no espaço de arte e cultura Horácio de Almeida. As 17 horas, Cantoria com repentistas e violeiros, no espaço de cultura Horácio de Almeida",
+		"noite": "As 18 horas, feirinha cultural e gastronômica, e Encontro de Filarmônicas. As 20 e 30, Encontro de Xaxado da cidade de Areia. As 22 e 30, Apresentação Musical - Gênero Musical: Forró. Todas as atrações na praça Pedro Américo. "
+	},
+	"2023-07-07": {
+		"manhã": "As 9 horas, Agro Receptivo turístico - Rotas dos Engenhos e Rota das Cachoeiras, Receptivo turístico com a Rotta Turismo - Rota das Flores de Areia, no Espaço Cultura e Arte Horácio de Almeida. ",
+		"tarde": "As 13 e 30, Abertura da Exposição do Festival Pedro Américo com a apresentação do Coral da rede municipal de educação. As 14 horas, Receptivo turístico com a Rotta Turismo - Rota dos Engenhos de Areia. As 15 e 30, receptivo turístico com a Rotta Turismo - Casa de Farinha Pôr do Sol, no ESPAÇO DE CULTURA E ARTE HORÁCIO DEALMEIDA. As 17 horas, Entrega do título Mestres da Cultura, no teatro Minerva. ",
+		"noite": "As 18 horas, Concerto oficinas de música junto com AMURA, no teatro Minerva. As 21 horas, Vinicius Mendes e Banda. As 23 horas, os 3 do nordeste, no calçadão João Cardoso. "
+	},
+	"2023-07-08": {
+		"manhã": "As 5 e 30, CORRIDA TRUN SERIES 2023. As 8 horas, Exposição do Festival Pedro Américo. As 9 horas, Agro Receptivo turístico - Rotas dos Engenhos e Rota das Cachoeiras. Receptivo turístico com a Rotta Turismo - terceira Expedição Caminhos dos Engenhos de Areia, no espaço de cultura e arte Horácio de Almeida. Oficina de Música - Violão, Canto para Coral, no mercado público. ",
+		"tarde": "As 16 horas, sessão de cinema, no teatro minerva. As 15 e 30, Receptivo turístico com a Rotta Turismo - Casa de Farinha Pôr do Sol, no espaço de arte e cultura Horácio de Almeida. As 16 horas, Roda de Capoeira - Grupo Caá-puêra Semente Crioula, na praça pedro américo. ",
+		"noite": "As 21 horas, Nathan Vinícius. As 23 e 30, forró D2. Ambos no calçadão João Cardoso. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
+	},
+	"2023-07-09": {
+		"manhã": "Mega trilha Ecológica do Caminhos do Frio - Responsável, guia de turismo Gustavo Camilo. ",
 		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 19 horas, abertura oficial, no auditório Santa Rita. Às 21 horas, atração musical, Gilmar do Accordeon, no palco principal. Às 23 horas, atração musical, Forró Karapeba, no palco principal. "
-	},
-	"2022-07-05": {
-		"manhã": "Pela manhã: das 8 às 11 horas, Mini curso de pintura de vasos de cimento, no espaço do artesão. As 9 horas, roteiro turístico: rota das flores, com saída da praça Pedro Américo, no centro da cidade. Das 9 às 11 horas, Mini curso de bonecas, no espaço do artesão, e oficina de cortes especiais de carnde de cordeiro, no centro de ciências agrárias, no campus II da UFPB. ",
-		"tarde": "Pela tarde: às 14 horas, roteiro turístico: Rota dos engenhos, com saída da praça Pedro Américo, no centro da cidade. Das 16 às 17 horas, sarau poético da academia de letras de areia, no museu casa de Pedro Américo. ",
-		"noite": "Pela noite: das 19 às 20 horas, momento Areia Reconhece, homenageando a agência de receptivo Rotta Turismo, com apresentação da escolinha de música Maestro Baltazar, no teatro minerva. Às 21 horas, show de Dalvan dos teclados, no palco central"
-	},
-	"2022-07-06": {
-		"manhã": "Pela manhã: das 8 às 11 horas oficina de Luthieria, Produção Artesanal de Instrumentos Musicais de corda, no mercado público. Das 9 às 11 e de 14 às 17 horas, mini curso se colá colou, arte de colagem de materias diversos, no casarão josé rufino. As 9 horas, roteiro turístico rota das flores, saindo da praça pedro américo, no centro.  ",
-		"tarde": "As 14 horas, roteiro turistico rota dos engenhos, saindo da praça pedro américo, no centro. Das 16 às 17 e 30, sarau poético da academia de letras de areia, no museu casa de pedro américo.  ",
-		"noite": "Pela noite: das 19 as 20 horas, momento areia reconhece, homenageando a agência de viagens Foco turismo, com apresentação da orquestra de violão vó maria, no teatro minerva. Às 21 horas, show do Cowboy dos teclados, no palco centra. As 23 horas, show dos 3 do xamego, no palco central. "
-	},
-	"2022-07-07": {
-		"manhã": "Pela manhã: das 8 as 11 horas, mini curso de pinturas de vasos de cimento, no espaço do artesão. As 9 horas, roteiro turístico rota das flores, saindo da praça pedro américo. Das 9 as 11 horas, mini curso de confecções de bonecas, no espaço do artesão e mini curso se colá colou, no casarão de josé rufino. ",
-		"tarde": "As 14 horas, roteiro turístico rota dos engenhos, saindo da praça pedro américo, no centro. Das 16 as 17 horas, oficina gastronômica teatral, no teatro minerva. Das 16 às 17 e 30, sarau poético da academia de letras de areia, no museu casa de pedro américo. ",
-		"noite": "Pela noite: das 19 as 20 horas, momento areia reconhece, homenageando a agência de viagens Suzy Tur, com apresentação do grupo de tradições folclóricas Moenda, no teatro minerva. Às 21 horas, show do Forró feitiço, no palco centra. As 23 horas, show de Neto Oliveira, no palco central. "
-	},
-	"2022-07-08": {
-		"manhã": "As 9 horas, roteiro turístico: rota das flores, com saída da praça Pedro Américo, no centro da cidade. Dàs 9 às 11 horas, oficina de análise sensorial de cachaça, no centro de ciências agrárias, campus II da UFPB. ",
-		"tarde": "Pela tarde: às 14 horas, roteiro turístico: Rota dos engenhos, com saída da praça Pedro Américo, no centro da cidade. Das 14 às 17 horas, oficina de drinks, no restaurante o barretão. Das 16 às 17 horas, sarau poético da academia de letras de areia, no museu casa de Pedro Américo. ",
-		"noite": "Pela noite: das 19 às 20 horas, momento Areia Reconhece, homenageando a agência de viagens planeta turismo, com apresentação do grupo de capoeira, no teatro minerva. "
-	},
-	"2022-07-09": {
-		"manhã": "As 6 e 50, roteiro turístico Trilha de sítio velho nos caminhos do frio, concentração no centro de Ciências agrárias, no campus 2 da UFPB. Das 9 as 12 horas, forró na feira, com trios de forró, no mercado público. Das 9 às 16 horas, roteiro turístico Expedição caminhos dos engenhos, saindo da praça pedro américo. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 21 horas, show de Vinícius Mendes e banda, no palco central. Às 23 horas, show de Jorge de Altinho, no palco central. "
-	},
-	"2022-07-10": {
-		"manhã": "As 7 horas, roteiro turístico: mega trilha ecológica Caminhos do Frio, com concentração no Parque estadual da Mata do Pau Ferro, e passeio ciclístico, com saída na praça Pedro Américo. As 10 horas, exposição de carros antigos",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-07-11": {
-		"manhã": "Pela manhã: às 6 horas, alvorada com a banda Professor Antônio Pinto. ",
-		"tarde": "Pela tarde: às 19 horas, solenidade de abertura do caminhos do frio 2022 em Pilões. ",
-		"noite": "Pela noite: às 21 horas, show de Lalo Sanfoneiro. "
-	},
-	"2022-07-12": {
-		"manhã": "Pela manhã: às 7 horas, rota turística criativa de Pilões, roteiro Ouricuri, memorial e fé. As 8 horas, oficina de fotografia de celular, memória: Um olhar sobre pilões, oficina de gastronomia, cuscuz da diva restaurante, e contação de histórias infantis nas escolas da zona rual",
-		"tarde": "As 8 horas, oficina de fotografia de celular, memória: Um olhar sobre pilões. ",
-		"noite": "As 18 horas, feira de gastronomia e artesanato, terça cultural. Às 19 e 30, apresentaação cultural, S C F V. Às 20 horas, show do trio sanfona de ouro. "
-	},
-	"2022-07-13": {
-		"manhã": "Pela manhã: às 7 horas, rota turística criativa de Pilões, roteiro identidade, fogueira e fé. As 8 horas, oficina de artesanato, produção de louça de barro, no cras. Às 10 horas, abertura da exposição Tiago almeida, no centro social Hermes Lira. ",
-		"tarde": "Pela tarde: às 14 horas, oficina de artesanato, produção de louça de Barro, no cras. ",
-		"noite": "As 18 horas, feira de gastronomia e artesanato. Às 19 horas, apresentações culturais. Às 20 horas, show de Juarez dos teclados. "
-	},
-	"2022-07-14": {
-		"manhã": "Pela manhã: às 7 horas, rota turística criativa de Pilões, roteiro vinho e pôr do sol. Às 8 horas, oficinas. Às 10 horas, exposição Tiago Almeida, no centro social Hermes Lira. ",
-		"tarde": "Pela tarde: às 14 horas, oficina de artesnato Pães e biscoitos, no crás. ",
-		"noite": "As 18 horas, feira de gastronomia e artesanato. Às 19 horas, exposição digital de fotografia, resultado e premiação da oficina de fotografia. Às 20 horas, concurso princesa das flores. Às 21 horas, show com artista local. "
-	},
-	"2022-07-15": {
-		"manhã": "Pela manhã: às 7 horas, rota turística criativa de pilões, Roteiro cachoeira de aventura. Às 8 horas, oficina de interpretação e musicalização para poesia, com a frente trovadora. Às 10 horas, exposição tiago almeida, centro social hermes lira. ",
-		"tarde": "Pela tarde: às 14 horas, oficina de interpretação e musicalização para poesia, com a frente trovadora. Às 15 horas, Auto do menino João e Pôr do sol literário na capela, na vila do Pau D'arco. ",
-		"noite": "As 18 horas, feira de gastronomia e artesanato. Às 19 horas, exposição digital de fotografia, resultado e premiação da oficina de fotografia. Às 20 horas, concurso princesa das flores. Às 21 horas, show com artista local. "
-	},
-	"2022-07-16": {
-		"manhã": "Pela manhã: às 7 horas, rota turística criativa de Pilões, roteiro cachoeira de Aventura. Às 10 horas, exposição Tiago Almeida, centro Social Hermes Lira. ",
-		"tarde": "Pela tarde: às 14 horas, oficina de cocada na kenga, na casa da cocada, na vila Pau D'arco. Das 15 às 17 horas, forró na vila pau d'arco. ",
-		"noite": "Pela noite: às 20 horas, show dos 3 do chamego. Às 22 horas, show de Santana. À meia noite, show de Marden Moraes e banda. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-07-17": {
-		"manhã": "Pela manhã: às 6 e 30, visita na feira livre, viola e poesia. Às 7 horas, rota turística criativa de pilões, roteiro cachoeira de aventura. ",
-		"tarde": "Pela tarde: às 16 horas, orquestra de sanfona e pôr do sol musical, no Targino's sítio. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-07-18": {
-		"manhã": "Pela manhã: às 8 horas, hasteamento das bandeiras, na praça da liberdade. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 19 e 30, abertura oficial, homenagem a Pinto do acordeon com a orquestra sanfônica sanforina. "
-	},
-	"2022-07-19": {
-		"manhã": "Pela manhã: às 9 horas, oficina de cordel, no centro de serviços socio assistenciais. ",
-		"tarde": "Pela tarde: às 15 horas, feirinha agroecológica na terra da laranja, na ecit Poeta Mário Vieira. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 20 horas, atração musical, Daniel Voz e Violão. Às 21 e 30, atração musical, Rony dos Teclados. "
-	},
-	"2022-07-20": {
-		"manhã": "Pela manhã: às 9 horas oficina de drinks, no centro de serviços socio assistenciais. ",
-		"tarde": "Pela tarde: às 14 horas, escola Desembargador Arthur Virgínio de Moura, homenageia Pinto do Acordeon. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 20 horas, apresentação cultural, projeto arte na rua. Às 21 e 30, atração musical, fofim dirmantelo. "
-	},
-	"2022-07-21": {
-		"manhã": "Pela manhã: às 9 horas, oficina de dança, no centro de serviços socio assistenciais e palestra sobre citricultura, na rua Governador Antônio Mariz. ",
-		"tarde": "Pela tarde: às 15 horas, apresentação cultural com o projeto Prima. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 20 horas, apresentação da banda de pífanos. Às 21 e 30, atração musical, Zezinho Safadão e Renan Victor. "
-	},
-	"2022-07-22": {
-		"manhã": "Pela manhã: às 9 horas, oficina de teatro, no centro de serviços socio assistencias. ",
-		"tarde": "Pela tarde: às 14 horas, vivência e experiência: visita a casa de farinha e capelinha de são severino dos ramos, no sítio Juá. Às 15 horas, apresentação cultural com a SECET. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 20 horas, companhia de dança Caamirim. Às 22 horas, atrações musicais, Nicácia BRasil, Zezo Potiguar, Rodrigo Pablo e Forró Mega Love. "
-	},
-	"2022-07-23": {
-		"manhã": "Pela manhã: às 8 horas, trilha ecológica na cachoeira do pinga e pedal da tangerina. ",
-		"tarde": "Pela tarde: às 14 horas, vivência e experiência, visita ao laranjal e venda de mudas de laranja, na associação do cajá. ",
-		"noite": "Pela noite: às 18 horas, feirinha de artesanato e gastronômica a partir da laranja, na rua Governador Antônio Mariz. Às 20 horas, atração musical, quinteto maefradom. Às 22 horas, atrações musicais, deusa nordestina do forró e forró cavalo de pau. "
-	},
-	"2022-07-24": {
-		"manhã": "Pela manhã: às 8 horas, quarta trilha da tangerina, saída e chegada no parque da Laranja. Às 9 horas, tradicional corrida de jegue. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-07-25": {
-		"manhã": "Não há programação na manhã neste dia. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 19 e 30, Abertura oficial, cerimonial solânea: memorial de fé, arte e cultura, uma homenagem à Pinto do acordeon. Às 21 e 30, feirinha gastronômica e de artesanato, praça viva com a Atus, associação turística e artesanal de solânea, e música ao vivo. "
-	},
-	"2022-07-26": {
-		"manhã": "Pela manhã: às 8 horas, espetáculo de teatro histórias de lua e sol, companhia do Prato, na escola Ernestina Pinto.  Às 8 e 30, oficina de dança populares, no teatro municipal Jacob Soares Pereira, oficina de educação patrimonial para os diretores das escolas da rede pública de ensino, na secretaria municipal de educação e oficina de artesanato identidade solanense, no grêmio morenense.  ",
-		"tarde": "Pela tarde: às 14 horas, espetáculo de teatro histórias de lua e sol, companhia do Prato, na escola Ernestina Pinto. Às 15 horas, espetáculo de Teatro infantil, os conta-atores: em busca do baú empoeirado, companhia artística fascinart, na escola municipal Padre Ibiapina.  ",
-		"noite": "Pela noite: às 19 e 30, concerto musical com a banda 26 de novembro, no teatro municipal Jacob Soares Pereira. "
-	},
-	"2022-07-27": {
-		"manhã": "Pela manhã: às 8 horas, Espetáculo de teatro de bonecos, tem babau na escola, na escola municipal evandro soares . Às 8 e 30, oficina de danças populares, no teatro municipal jacob soares pereira, oficina de educação patrimonial para os diretores das escolas da rede pública de ensino, na secretaria municipal de educação. Às 9 horas, Sarau na escola, na escola ECIT alfredo pessoa de lima.  ",
-		"tarde": "Pela tarde: às 15 horas, espetáculo de teatro de rua, casamento de Branco, na praça 26 de novembro. ",
-		"noite": "Pela noite: às 19 horas, espetáculo de teatro, De joão para joão, no teatro municipal Jacob Soares. Às 20 e 30, Literatura e artes visuais, no grêmio morenense, e feira de doação e troca de livros, na biblioteca Municipal Padre José Fidelis. Às 21 horas, lançamento da revista solanáceas. "
-	},
-	"2022-07-28": {
-		"manhã": "Pela manhã: às 8 e 30, Encontro de capoeira, no teatro municipal jacob soares e Contação de histórias, na biblioteca municipal Padre José Fidelis. ",
-		"tarde": "Pela tarde: às 14 e 30, contação de histórias, na biblioteca municiapl Padre José fidelis. Às 15 horas, espetáculo de teatro, pavão misterioso e o romance da donzela, no teatro municipal Jacob Soares Pereira. ",
-		"noite": "Pela noite: às 19 e 30, Espetáculo de teatro, me dá teu coração, uma homenagem a pinto do acordeon, no teatro municipal Jacob Soares Pereira. "
-	},
-	"2022-07-29": {
-		"manhã": "Pela manhã: às 8 e 30, palestra e bate papo sobre políticas públicas de cultura em solânea, na câmara municipal. ",
-		"tarde": "Pela tarde: às 14 e 30, palestra e bate pabo sobre o turismo em solânea, no memorial santuário padre ibiapina. ",
-		"noite": "Pela noite: às 19 horas, feirinha gastronômica e de artesanato, praça viva com a Atus. Às 21 horas, show de Ruan, a voz de ouro. Às 22 horas show de Geisy Silva. Às 23 horas, show de Kelson Kizz e Danny Xavier. Às uma da madrugada, show de Joãozinho dantas. "
-	},
-	"2022-07-30": {
-		"manhã": "Pela manhã: às 8 horas, Picado, cantoria e teatro de bonecos, na feira livre de solânea. Às 8 e 30, Teatro Municipal Jacob Soares Pereira, Museu e memorial Padre Ibiapina, Antiquário Maria Pê e casa do arteanado abertos para visitações. ",
-		"tarde": "Pela tarde: às 14 e 30, Teatro Municipal Jacob Soares Pereira, Museu e memorial Padre Ibiapina, Antiquário Maria Pê e casa do arteanado abertos para visitações.  ",
-		"noite": "Pela noite: às 16 horas, forró na praça 26 de novembro com trios de forró pé de serra. Às 19 e 30, Missa especial, solânea, memorial de fé, na igreja matriz santo antônio. Às 20 e 30, feirinha gastronômica e de artesanato, praça viva com a Atus. Às 21 e 20, show de Júlia e Renan. Às 22 horas, show de Suzy Barbosa. Às 23 horas, show de Sandro Cavalcante, Tércio Luiz e Banda raio de sol vip. Às uma da madrugada, show de Waldonys. "
-	},
-	"2022-07-31": {
-		"manhã": "Pela manhã: às 8 horas, trilha caminhos do frio. Às 9 horas, sétimo festival de boi e porco no rolete, passeios a cavalo, música ao vivo no rancho alegria, sítio barrocas.  ",
-		"tarde": "Pela tarde: às 13 horas, primeiro campeonato de estilingue, no sítio poderosa, arena mangaio. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-08-01": {
-		"manhã": "Pela manhã: às 6 horas, alvorada com a banda princesa do brejo. Às 8 horas, hasteamento dos pavilhões. Às 8 e 30, apresentação da banda marcial princesa do brejo e da escola municipal noêmia de carvalho. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 19 horas, solenidade de abertuda do caminhos do frio 2022, no salão da prefeitura, com tributo a pinto do acordeon. Às 20 horas, feira gastronômica Delícias da noite, artesnato e flores. Às 21 horas, show de João Pedro do Acordeon. "
-	},
-	"2022-08-02": {
-		"manhã": "Pela manhã: às 8 horas, oficinas na escola municipal Noemia de Carvalho. Às 8 e 30, caminhada ecológica para a pedra da furna, com saída da praça antônio bento. ",
-		"tarde": "Pela tarde: às 14 horas, visita ao engenho martiniano com os alunos das escolas municipais e estaduais. ",
-		"noite": "Pela noite: às 19 horas, cultura na praça, apresntação dos grupos, feira gastronômica, artesanato e flores. Às 20 horas, show do trio serrariense. "
-	},
-	"2022-08-03": {
-		"manhã": "Pela manhã: às 8 horas, oficina no salão da prefeitura. ",
-		"tarde": "Pela tarde: às 14 horas, oficina no salão da prefeitura. ",
-		"noite": "Pela noite: às 19 horas, Cultura na praça, apesentação de grupos. Às 20 horas, Feira gastronômica, artesnato e flores e show de Ricardo Show. "
-	},
-	"2022-08-04": {
-		"manhã": "Não há programação na manhã neste dia. ",
-		"tarde": "Pela tarde: às 14 horas, fest idosos, na praça central. ",
-		"noite": "Pela noite: às 20 horas, cultura na praça, os conta-atores, em busca do baú empoeirado. Às 21 horas, show do grupo pagode da aliança. "
-	},
-	"2022-08-05": {
-		"manhã": "Pela manhã: às 6 horas, feira da agricultura familiar com forró pé de serra. ",
-		"tarde": "Pela tarde: às 16 horas, por do sol no mirante trezentos e sessenta graus.  ",
-		"noite": "Pela noite: às 20 horas, show com Flávio Farra e Beth Nascimento. "
-	},
-	"2022-08-06": {
-		"manhã": "Pela manhã: às 8 horas, pedal da serra, saindo da praça Antonio Bento e terminando no mirante trezentos e sessenta, com forró pé de serra. Às 9 horas visitação ao engenho baixa verde. ",
-		"tarde": "Pela tarde: às 14 horas, forró é de serra na praça. ",
-		"noite": "Pela noite: às 21 horas, shows de D r banda, forró de todos os tempos, curió e sâmya maia. "
-	},
-	"2022-08-07": {
-		"manhã": "Pela manhã: às 8 horas, cavalgada da fé. ",
-		"tarde": "Pela tarde: às 14 horas, forró pé de serra na praça. Show com João Pedro do Acordeon e Gleydson Gavião. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-08-08": {
-		"manhã": "Hasteamento das bandeiras municipal, estadual e nacional. Das 8 às 11 horas, oficina de cnfecção de arte na palha da bananeira e pfocoma de flauta na praça o moraesão. ",
-		"tarde": "Pela tarde: das 13 às 16 horas, oficina de canto, no crás. Das 13 horas às 17 horas, Oficina de teatro de rua e improviso. Oficina corpo em construção: O trabalho do ator. Oficina de técnicas do teatro na contação e declamação de história. ",
-		"noite": "Abertura oficial do evento. Recepção e homenagens das cidades da rota cultural caminhos do frio. Composição da mesa de honra. Hino nacional e hino de Alagoa Nova. Falas institucionais. Apresentações Culturais. Todos na praça de eventos o moraesão. "
-	},
-	"2022-08-09": {
-		"manhã": "Pela manhã: das 7 às 11 horas, Oficina de cinema e escrita criativa, no crás. Das 8 às 11 horas, oficina de flauta e oficina de pintura em tela, na praça o Moraesão. Das 8 horas às 11, oficina de arte na palha da bananeira. ",
-		"tarde": "Pela tarde: das 13 às 16 horas, oficina de canto, no crás. Das 13 às 17 horas, oficina de teatro de rua e improviso, oficina corpo em construção: o trabalho do ator e oficina de técnicas do teatro na contação e declamação de história. Workshop de gastronomia local, na praça o moraesão.",
-		"noite": "Arte e poesia biblioteca municipal, apresentação do projeto arte na rua, balé cantinho da dança, danças urbanas e balé. Vila da gastronomia. Feira de artesanato e exposição. Exposição fotográfica: Alagoa grande em evolução. Todos na praça de evento o moraesão. "
-	},
-	"2022-08-10": {
-		"manhã": "Pela manhã: das 8 às 11 horas, oficina de teatro de rua e improviso, no povoado São Tomé, oficina de cinema e escrita criativa, no crás, oficinas de flauta e pintura em tela, na praça o moraesão, oficina a arte da declamação: voz e poesia e oficina de confecção de arte na palha da bananeira. ",
-		"tarde": "Pela tarde: das 13 às 16 horas, oficina de técnicas do teatro na contação e declamação de história, na praça o moraesão, oficina de canto no crás. Workshop de gastronomia local na praça o moraesão. ",
-		"noite": "Chá com chocolate às 17 horas, no colégio violeta costa. Feira de artesanato, feira gastronômica, apresentação cultural às 19 e 30, apresentação musical com Ronaldo Rossi e trio pé de serra às 20 horas. Todos no povoado são tomé. "
-	},
-	"2022-08-11": {
-		"manhã": "Pela manhã: das 8 às 11 horas, oficina de fotografia e vídeo, através do celular e oficina de tela em pintura, na praça o Moraesão. Oficina de arte da declamação: voz à poesia. ",
-		"tarde": "Dás 13 às 17 horas, oficina de teatro de rua e improviso. Apresentação cultural, culminância das oficinas. Às 17 horas, aulão de ritbox, ritmo regional, no moraesão. ",
-		"noite": "Vila da gastronomia, feira de artesanato e exposição, exposição fotográfica: alagoa nova em evolução. Espaço de dança, dança regional às 19 horas. Recitação de poesias às 19 e 20. Apresentação cultural, grupo de dança caetés às 19 e 40. Grupo de teatro os cafuçus às 20 horas. Artista locais às 20 e 30. Todos na praça de eventos o Moraesão. "
-	},
-	"2022-08-12": {
-		"manhã": "Oficina de fotografia e vídeo através do celular, das 8 às 11 horas. Roda de conversa. ",
-		"tarde": "Apresentações culturais na praça o Moraesão às 14 horas. Visitação na zona rural. ",
-		"noite": "Vila da gastronomia, feira de artesanato e exposição, exposição fotográfica: alagoa nova em evolução. Apresentações musicais com artistas locais, Jefferson Arretado e Ton Oliveira. Todos na praça de eventos o Moraesão. "
-	},
-	"2022-08-13": {
-		"manhã": "Trilha para a barragem nova camará. Rapel na barragem nova camará. ",
-		"tarde": "Forró pé de serra na praça o Moraesão. Motofest. ",
-		"noite": "Vila da gastronomia, feira de artesanato e exposição, exposição fotográfica: alagoa nova em evolução. Apresentações musicais com artistas locais, Duquinha e banda às 19 e 30. Todos na praça de eventos o moraesão. "
-	},
-	"2022-08-14": {
-		"manhã": "Trilha e Rapel na cachoeira da boa vista, às 8 horas. Cavalgada do Frio. Trilha gastronômica pelos restaurantes rurais. Mototrilha. ",
-		"tarde": "Show musical na praça de eventos o moraesão. ",
-		"noite": "Não há programação na noite neste dia. "
-	},
-	"2022-08-15": {
-		"manhã": "Não há programação na manhã neste dia. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 19 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 e 30, Abertura oficial. Às 21 horas, música ao vivo com Maestro Civaldo e Banda com Maestro Francinaldo. Todos na vila do frio. "
-	},
-	"2022-08-16": {
-		"manhã": "Pela manhã: às 8 horas, visitação ao sítio agroecológico titara e ao STR e arribaçã. ",
-		"tarde": "Pela tarde: às 13 horas, oficina de oitinho e de grafite. Às 15 horas, chá literário, grupo de leitura: leia mulheres. Todos na vila do frio. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 hroras, exibição de filmes culturais, cinema de rua. Às 20 horas, apresentações culturais SCFV. Às 21 horas, apresentação do coral cia da voz. Às 22 horas, música ao vivo com artistas locais. Todos na vila do frio. "
-	},
-	"2022-08-17": {
-		"manhã": "Pela manhã: às 6 horas, trilha da pedra da letra, saindo da vila do frio. ",
-		"tarde": "Pela tarde: às 13 horas, Bruxinhas da vovó e oficina de gerenciamento de mídias sociais. Às 13 e 30, navegando na literatura, tarde cultural. Às 14 horas, oficina de maquiagem. Às 17 horas, Roda de Capoeira. Todos na vila do frio. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 horas, Exibição de filmes culturais, cinema de rua. Às 19 e 30 horas, apresentação cultura, ENSA. Às 20 horas, apresentação cultural, SCFV. Às 20 e 30, apresentação de quandrilha. ÀS 21 horas, noite da seresta. Todos na vila do frio. "
-	},
-	"2022-08-18": {
-		"manhã": "Pela manhã: às 8 horas, Caravana do Acordeon, na vila do frio.  ",
-		"tarde": "Pela tarde: às 13 horas, oficina de arte no barro na vila do frio e produção de mudas, todos na vila do frio. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 horas, exibição artística da filarmônica da P M, e orquestra municipal. Às 20 horas, apresentação cultural SCFV e corde: cuscuz e poesia. Às 21 horas, música ao vivo. "
-	},
-	"2022-08-19": {
-		"manhã": "Pela manhã: às 7 horas, feirinha agroecológica com forró pé de serra. ",
-		"tarde": "Pela tarde: às 13 horas, oficina de gastronomia e oficina de artesnato das neves, no SAER e dança de salão na gym fight. Às 16 horas, quintanda agroecológica, na vila do frio. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 horas, apresentação cultura, dança de salão. Às 20 horas, tablado livre. Às 22 horas, música ao vivo. Todos na vila do frio. "
-	},
-	"2022-08-20": {
-		"manhã": "Pela manhã: às 6 horas, forró pé de serra, em frente a saer. Às 8 horas, café multicultural na tapera, no assentamento ozial pereira. ",
-		"tarde": "Pela tarde: às 13 horas, tarde da criança; Ás 16 horas, tarde do pagode. Todos na vila do frio. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato. Às 19 horas, encontro de dança de rua. Às 21 horas, show com artista nacional. Todos na vila do frio. "
-	},
-	"2022-08-21": {
-		"manhã": "Pela manhã: às 7 horas, quarta corrida antu desafrio 2022, desafio cross country. com largada na vila do frio. Passeio ciclistico, com largada na vila do frio e chegada no espaço lazer. Às 10 horas, pagode na piscina, no quirinão. Às 16 horas, apresentação de repentistas, na vila do frio. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 18 horas, ferinha gastronômica, feira de plantas ornamentais e artesanato, e show com música ao vivo. "
-	},
-	"2022-08-22": {
-		"manhã": "Não há programação na manhã neste dia. ",
-		"tarde": "Ferinha de artesanato, apresentação de dança na praça. ",
-		"noite": "Show com Molima na praça. "
-	},
-	"2022-08-23": {
-		"manhã": "Exposição de quatros no espaço cultural. ",
-		"tarde": "Oficina de artes visuais, no espaço cultural e peça teatral no ginásio do tabuleiro. ",
-		"noite": "Grupo sanforina na praça. "
-	},
-	"2022-08-24": {
-		"manhã": "Oficina de fotografia, no espaço cultural. ",
-		"tarde": "Oficina de bonecas, no espaço cultural. ",
-		"noite": "Peça de teatro, casamento branco, no espaço cultural e Show de calouros na praça. "
-	},
-	"2022-08-25": {
-		"manhã": "Oficina dos santos em madeira, no espaço cultural.  ",
-		"tarde": "Festival gastronômico, no espaço cultural. ",
-		"noite": "Grupo ideologia, na praça. "
-	},
-	"2022-08-26": {
-		"manhã": "Grupo de repentstas na feira. ",
-		"tarde": "Apresentação de tambores da serra, na praça. ",
-		"noite": "roof time, na praça. Vitor Brizeno, na praça. "
-	},
-	"2022-08-27": {
-		"manhã": "Trilha cultural. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Programação na praça. "
-	},
-	"2022-08-28": {
-		"manhã": "Missa de ação de graças no cruzeiro de roma. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Por do sol no cruzeiro, apresentaçaõ de violino, no cruzeiro de roma.  "
-	},
-	"2022-08-29": {
-		"manhã": "Não há programação na manhã neste dia. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 18 horas, feira cultural, de gastronomia e de artesanato. Às 19 e 30, abertura oficial. Às 20 horas, apresentações de Thallyson Ramos, Orquestra de Pandeiros, e Cirandeiras de Caiana dos Crioulos. Às 21:30 horas, lançamento do H Q Dois Nordestinos do ritmo. Às 22 horas, show com Mô Lima. Toda a programaçaõ desta noite acontecerá no largo do teatro santa ignez. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-08-30": {
-		"manhã": "Pela manhã: às 8 horas, festival estudantil de artes, no teatro santa inês. ",
-		"tarde": "Não há programação na tarde neste dia. ",
-		"noite": "Pela noite: às 18 horas, feira cultural, de gastronomia e de artesanato. às 20 horas, espetáculo me dá teu coração, cia o mangaio, no teatro santa ignez. Às 21 horas, show de Davvi Duarte, no largo do teatro santa ignez. Não deixe de visitar a tenda da Vitrine do Artesanato. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-08-31": {
-		"manhã": "Pela manhã: às 8 horas, festival estudantil de artes, no teatro santa inês. ",
-		"tarde": "Pela tarde: às 15 horas, quarta do rei, um dia com jackson do pandeiro, Memorial Jackson do Pandeiro. ",
-		"noite": "Pela noite: às 18 horas, feira cultural, de gastronomia e de artesanato. Às 20 horas, espetáculo Encascado, cia aconde, no teatro santa ignez. Às 21 horas, show de Gilmar do Acordeon, no largo do teatro santa ignez. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-09-01": {
-		"manhã": "Pela manhã: às 8 horas, festival estudantil de artes, no teatro santa inês. Às 9 horas, ofincina de educação ambiental, no rural fest, no pandeiro hall. Às 10 e 30, abertura oficial do rural fest. ",
-		"tarde": "Pela tarde: às 15 horas, espetáculo: os conta atores em busca do baú empoeirado, companhia fascinart, no largo do teatro santa inês. Às 16 horas, os sabores de maria da pá virada, chá da tarde no bistrô maria da pá virada. ",
-		"noite": "Pela noite: às 18 horas, feira cultural, de gastronomia e de artesanato. Às 20 horas, espetáculo: o casamento de maria feia, grupo raízes do paó, no teatro santa inês. Às 21 horas, show de Tinho Santos e Banda, no largo do teatro santa ignez. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-09-02": {
-		"manhã": "Pela manhã: às 6 horas, esportes de aventura no brejo, caminhadas, trilhas e rapel. Às 8 horas, festival estudantil de artes, no teatro santa inês. Às 9 horas, oficina de turismo rural e economia criativa no rural fest, no pandeiro hall. ",
-		"tarde": "Pela tarde: às 14 horas, oficina de educação ambiental no rural fest, no pandeiro hall. Às 16 horas, os sabores de maria da pá virada, chá da tarde no Maria da Pá virada bistrô. ",
-		"noite": "Pela noite: às 21 horas, Jozan Domingos e banda. às 23 horas, Curió. às 1 hora, Petrúcia valéria. no pátido do mercado público. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-09-03": {
-		"manhã": "Pela manhã: às 6 horas, esportes de aventura no brejo, caminhadas, trilhas e rapel. Às 9 horas, oficina de arranjos florais na rural fest, no pandeiro hall. às 9 horas, sanfonada : um tributo à pinto do acordeon, no coreto central. Às 10 horas, quarta festa do coco, no restaurante Rita de Chicó, em Caiana dos Crioulos. Às 11 horas, terceira mostra de fava, no rural fest, no pandeiro hall, e Pé de serra com cachaça no engenho volúpia. ",
-		"tarde": "Pela tarde: às 16 horas, os sabores de maria da pá virada, chá da tarde no Maria da Pá virada bistrô. Uma tarde no pandeiro, atividades culturais e economia criativa, no pórtico do pandeiro. ",
-		"noite": "Pela noite: às 20 horas, os sabores de maria da pá virada, jantar com música ao vivo no Maria da Pá virada bistrô. Às 21 horas, show de Artur Vinícios e Banda. Às 23 horas, show do forrozão Pai e Filho. Às 1 horas, show de Vicente Nery. Todos no pátio do mercado público. Esta skill foi desenvolvida pelo @ destino alagoa grande, nos siga no instagram. "
-	},
-	"2022-09-04": {
-		"manhã": "Pela manhã: às 6 horas, esportes de aventura no brejo, caminhadas, trilhas e rapel. Às 8 horas, vivenciando Caiana, na comunidade quilombola Caiana dos Crioulos e os sabores de maria da pá virada, café da manhã no Maria da Pá virada bistrô. Às 9 horas, desfile e exposição de carros antigos no pátio do mercado público. Às 9 e 30 vigéssima cavalgada SPRAG, saindo do pandeiro hall. Às 11 horas, almoço com coco de roda, no restaurante Rita de Chicó, em Caiana dos Crioulos. ",
-		"tarde": "Pela tarde: às 16 horas, os sabores de maria da pá virada, chá da tarde no Maria da Pá virada bistrô. ",
 		"noite": "Não há programação na tarde neste dia. "
+	},
+	"2023-07-10": {
+		"manhã": "Aguarde, estamos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-11": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-12": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-13": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-14": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-15": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-16": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-17": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-18": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-19": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-20": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-21": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-22": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-23": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-24": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-25": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-26": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-27": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-28": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-29": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-30": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-07-31": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-01": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-02": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-03": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-04": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-05": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-06": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-07": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-08": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-09": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-10": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-11": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-12": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-13": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-14": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-15": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-16": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-17": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-18": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-19": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-20": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-21": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-22": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-23": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-24": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-25": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-26": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-27": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-28": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-29": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-30": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-08-31": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-01": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-02": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-03": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-04": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-05": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-06": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-07": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-08": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-09": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
+	},
+	"2023-09-10": {
+		"manhã": "Aguarde estmaos atualizando a programação. ",
+		"tarde": "Aguarde estmaos atualizando a programação. ",
+		"noite": "Aguarde estmaos atualizando a programação. "
 	}
 }
